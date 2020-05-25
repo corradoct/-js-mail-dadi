@@ -14,3 +14,19 @@ if (controlEmail) {
 } else {
   document.write('Accesso non consentito');
 }
+
+// Esercizio dadi
+
+// var numberUser = Math.floor(Math.random() * 6) + 1;
+// document.write('Il tuo numero è ' + numberUser + '<br>');
+//
+// var numberComputer = Math.floor(Math.random() * 6) + 1;
+// document.write('Il numero del computer è ' + numberComputer + '<br>');
+//
+// if (numberUser > numberComputer) {
+//   document.write('Hai vinto');
+// } else if (numberUser < numberComputer) {
+//   document.write('Hai perso');
+// } else {
+//   document.write('Hai pareggiato');
+// }
